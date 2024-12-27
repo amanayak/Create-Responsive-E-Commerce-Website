@@ -1,4 +1,4 @@
-# 🔥 Create a Responsive QR Code Reader
+# 🔥 Design an E-Commerce Site that Stands Out! Step-by-Step Walkthrough
 
 - User-Friendly Navigation
 Easy-to-use menus, categories, and filters to help customers find products quickly.
